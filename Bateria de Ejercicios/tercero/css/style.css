@@ -1,0 +1,13 @@
+.titulo {
+    color: lightcoral;
+    background-color: darkblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+.parrafo {
+    color: darkblue;
+    background-color: lightcoral;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: small;
+}
